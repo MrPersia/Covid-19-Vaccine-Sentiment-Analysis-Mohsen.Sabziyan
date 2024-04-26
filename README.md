@@ -15,8 +15,7 @@ Das Projekt umfasst folgende Schritte:
 4. **Feature-Engineering**: Extraktion zusätzlicher Merkmale aus den Tweet-Daten, wie benutzerbezogene Merkmale (Anzahl der Follower, Freunde, Favoriten usw.).
 
 5. **Modellierung**:
-   - Training verschiedener Modelle des maschinellen Lernens und des Deep Learnings zur Vorhersage des Sentiments von Tweets.
-   - Modelle umfassen Support Vector Machines (SVM), Random Forest, Gradient Boosting, Rekurrente Neuronale Netze (RNN), Long Short-Term Memory (LSTM), Convolutional Neural Networks (CNN) und Bidirectional Encoder Representations from Transformers (BERT).
+   - Training verschiedener Modelle des maschinellen Lernens und des Deep Learnings zur Vorhersage des 
    
 6. **Auswertung**: Bewertung der Leistung jedes Modells anhand geeigneter Metriken wie Genauigkeit, Präzision, Recall und F1-Score.
 
